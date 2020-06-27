@@ -8,7 +8,7 @@ body {
 h1 {
   color: #66bfbf;
   font-size: 5.625rem;
-  margin: 50px auto 0 auto;
+  margin: 20px auto 0 auto;
   font-family: "Sacramento", cursive;
 }
 
@@ -17,7 +17,7 @@ h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
-  padding-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 h3 {
@@ -33,7 +33,7 @@ hr {
   border: dotted #eeeeee 6px;
   border-bottom: none;
   width: 4%;
-  margin: 100px auto;
+  margin: 50px auto;
 }
 
 a {
@@ -50,7 +50,7 @@ a:hover {
 .top-container {
   background-color: #ecf0f6;
   position: relative;
-  padding-top: 100px;
+  padding-top: 10px;
 }
 
 .home-img {
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 50px 0;
 }
 
 .bottom-container {
@@ -108,8 +108,8 @@ a:hover {
 
 .copyright {
   color: #eeeeee;
-  font-size: 0.75rem;
-  padding: 20px 0;
+  font-size: 1.1rem;
+  padding: 10px 0;
 }
 
 .top-cloud {
@@ -155,5 +155,5 @@ a:hover {
 }
 
 .footer-link img {
-  width: 50px;
+  width: 40px;
 }
